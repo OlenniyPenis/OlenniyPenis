@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Обо мне
 
-Привет! Я увлекаюсь разработкой программного обеспечения, кастомизацией приложений и изучением новых технологий. Мне нравится не просто использовать готовые решения, а разбираться в том, как они устроены, адаптировать их под собственные потребности и пробовать реализовывать свои идеи.
+Я увлекаюсь разработкой программного обеспечения, кастомизацией приложений и изучением новых технологий. Мне нравится не просто использовать готовые решения, а разбираться в том, как они устроены, адаптировать их под собственные потребности и пробовать реализовывать свои идеи.
 
 Основное направление моих интересов — Android, программное обеспечение, интерфейсы и различные технические эксперименты. Я стараюсь постепенно расширять свои знания, пробовать новые инструменты и совершенствовать собственные проекты.
 
@@ -41,10 +41,7 @@ ChaiVPN — мой собственный проект, представляющ
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-9B72F5?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-7C3AED?style=flat-square&logo=windows&logoColor=white"/>
 </p>
 
 ---
@@ -62,6 +59,6 @@ ChaiVPN — мой собственный проект, представляющ
 
 <div align="center">
 
-<sub>Создаю собственные решения и постоянно изучаю что-то новое.</sub>
+<sub>Всем удачи в развитии своих проектов!</sub>
 
 </div>
