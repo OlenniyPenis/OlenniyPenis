@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-# Привет! 👋 Я YOUR_USERNAME
+# Привет! 👋 Я Edicoral или же OlenniyPenis
 
 <sub>Разработчик • Энтузиаст программного обеспечения • Кастомизация</sub>
 
@@ -25,7 +25,7 @@
 
 ## 🚀 Мой проект
 
-### <a href="ССЫЛКА_НА_CHAIVPN">ChaiVPN</a>
+### ChaiVPN
 
 ChaiVPN — мой собственный проект, представляющий собой конфигуратор VPN-конфигураций с использованием ключей. Проект создаётся с собственным оформлением и подходом к организации конфигураций.
 
@@ -41,7 +41,7 @@ ChaiVPN — мой собственный проект, представляющ
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kotlin-9B72F5?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-B紫?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-7C3AED?style=flat-square&logo=windows&logoColor=white"/>
