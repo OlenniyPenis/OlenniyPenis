@@ -1,16 +1,67 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**OlenniyPenis/OlenniyPenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет! 👋 Я YOUR_USERNAME
 
-Here are some ideas to get you started:
+<sub>Разработчик • Энтузиаст программного обеспечения • Кастомизация</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 Обо мне
+
+Привет! Я увлекаюсь разработкой программного обеспечения, кастомизацией приложений и изучением новых технологий. Мне нравится не просто использовать готовые решения, а разбираться в том, как они устроены, адаптировать их под собственные потребности и пробовать реализовывать свои идеи.
+
+Основное направление моих интересов — Android, программное обеспечение, интерфейсы и различные технические эксперименты. Я стараюсь постепенно расширять свои знания, пробовать новые инструменты и совершенствовать собственные проекты.
+
+- 📱 Интересуюсь разработкой и кастомизацией Android-приложений.
+- 🛠️ Изучаю устройство программного обеспечения и способы его модификации.
+- 💡 Люблю экспериментировать с новыми технологиями и идеями.
+- 🖥️ Интересуюсь операционными системами, программами и их настройкой.
+- 🌐 Знакомлюсь с Git, GitHub и открытой разработкой.
+- 🚀 Создаю, тестирую и совершенствую собственные проекты.
+
+---
+
+## 🚀 Мой проект
+
+### <a href="ССЫЛКА_НА_CHAIVPN">ChaiVPN</a>
+
+ChaiVPN — мой собственный проект, представляющий собой конфигуратор VPN-конфигураций с использованием ключей. Проект создаётся с собственным оформлением и подходом к организации конфигураций.
+
+- 🔑 Работа с VPN-конфигурациями и ключами.
+- ⚙️ Создание и организация конфигураций.
+- 🎨 Собственный визуальный стиль.
+- 🧪 Эксперименты, тестирование и совершенствование проекта.
+
+---
+
+## 🧰 Технологии и инструменты
+
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kotlin-9B72F5?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-B紫?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-7C3AED?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Мои интересы
+
+- Разработка мобильных приложений.
+- Кастомизация программного обеспечения.
+- Android и его экосистема.
+- Операционные системы Windows.
+- Открытые проекты и GitHub.
+- Технические эксперименты.
+
+---
+
+<div align="center">
+
+<sub>Создаю собственные решения и постоянно изучаю что-то новое.</sub>
+
+</div>
